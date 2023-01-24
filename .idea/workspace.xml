@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13ebac10-ede5-4904-9547-08810153225e" name="Changes" comment="">
+    <list default="true" id="13ebac10-ede5-4904-9547-08810153225e" name="Changes" comment="게시판 메뉴 이름 수정">
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/lombok-1.18.24.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/join.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/join.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BBS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BBS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bbs/Bbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bbs/Bbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -57,11 +62,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/sungkihun/Desktop/eclipse-workspace/BBS/WebContent",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "/Users/sungkihun/Desktop/eclipse-workspace/BBS/WebContent/WEB-INF/lib",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -69,6 +74,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebContent/WEB-INF/lib" />
       <recent name="$PROJECT_DIR$/WebContent" />
       <recent name="$PROJECT_DIR$/WebContent/WEB-INF" />
     </key>
@@ -115,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673951164040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="게시판 메뉴 이름 수정">
+      <created>1673956516030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673956516030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +144,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="생성" />
+    <MESSAGE value="게시판 메뉴 이름 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="게시판 메뉴 이름 수정" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

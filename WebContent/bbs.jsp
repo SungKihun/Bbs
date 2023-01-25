@@ -24,7 +24,7 @@
 </head>
 <body>
 	<%
-		// 메인 페이지로 이동했을 때 세셔내에 값이 담겨지는지 체크
+		// 메인 페이지로 이동했을 때 세션내에 값이 담겨지는지 체크
 		String userID = null;
 		if (session.getAttribute("userID") != null) {
 			userID = (String)session.getAttribute("userID");
